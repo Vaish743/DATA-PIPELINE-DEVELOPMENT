@@ -1,0 +1,2 @@
+Python 3.x
+Libraries: pandas, scikit-learn, numpy (install via pip install pandas scikit-learn numpy)
