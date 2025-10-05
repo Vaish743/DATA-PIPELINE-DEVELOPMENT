@@ -1,0 +1,11 @@
+customer_id,age,income,gender,region,purchase_amount
+1,25,50000,Male,Urban,150.0
+2,30,,Female,Rural,200.0
+3,35,60000,Male,Urban,
+4,40,70000,Female,Suburban,300.0
+5,45,80000,Male,Rural,250.0
+6,50,,Female,Urban,400.0
+7,55,90000,Male,Suburban,
+8,60,100000,Female,Rural,350.0
+9,65,110000,Male,Urban,450.0
+10,70,,Female,Suburban,500.0
